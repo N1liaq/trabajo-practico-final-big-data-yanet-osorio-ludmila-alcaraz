@@ -1,0 +1,1 @@
+-- Limpieza ejecutada con pandas en pipeline.py
