@@ -15,5 +15,13 @@ def extract():
         filas = con.sql("SELECT COUNT(*) FROM raw_pedidos").fetchone()[0]
         print("OK -> raw_pedidos cargada con filas:", filas)
 
+def validate():
+    with duckdb.connect(str(DB_PATH)) as con:
+        con.execute(read_sql("02-validate.sql"))
+        val = con.sql("SELECT COUNT(*) FROM validos").fetchone()[0]
+        rech = con.sql("SELECT COUNT(*) FROM rechazados").fetchone()[0]
+        print(f"OK -> validos: {val} | rechazados: {rech}")
+
 if __name__ == "__main__":
     extract()
+    validate()
