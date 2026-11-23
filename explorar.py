@@ -214,5 +214,24 @@ def _(mo):
     return
 
 
+@app.cell
+def _():
+    import duckdb
+
+    with duckdb.connect("dags/valhalla.duckdb", read_only=True) as con_respuestas:
+        queries = [q.strip() for q in open("dags/sql/consultas.sql", encoding="utf-8").read().split(";") if q.strip()]
+        resultados_consultas = [con_respuestas.sql(q).df() for q in queries]
+
+    resultados_consultas
+    return (resultados_consultas,)
+
+
+@app.cell
+def _(resultados_consultas):
+    promedio_mensual = round(resultados_consultas[1]["facturacion_mensual"].mean(), 2)
+    promedio_mensual
+    return
+
+
 if __name__ == "__main__":
     app.run()

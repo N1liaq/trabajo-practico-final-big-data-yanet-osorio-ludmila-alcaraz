@@ -6,59 +6,31 @@
   },
   "cells": [
     {
-      "id": "onDe",
+      "id": "Hbol",
       "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "MJUe",
       "code_hash": "c1b7b1d18b5ff786fb8c4d2ef4e0138a",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "NWnQ",
+      "id": "vblA",
       "code_hash": "642a847608d64fd86355fa5d3a84a98f",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "vdPn",
-      "code_hash": "6a1e9e42ea19c1e997c45341a61383d4",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='vdPn-0' random-id='1482e8ae-dd48-c4d2-6aae-9e14db642ac7'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:8,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-01626&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-12-26&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0078&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente78@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;840000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:16,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00016&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-07-21&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0124&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente124@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;840000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:35,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00035&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-08-21&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0379&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente379@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Lampara LED&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;9800.75&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;39203.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:58,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-01316&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-12-24&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0428&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente428@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Buenos Aires&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:60,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-01548&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-05-21&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0509&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente509@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Peru&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Lima&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;420000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:88,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00086&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;20/04/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0244&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente244@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Celular&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;620000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;2232000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:117,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00115&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-10-15&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0574&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente574@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Zapatillas&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;6&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;558600.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:120,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00760&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-12-30&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0131&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente131@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Auriculares&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;45000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;121500.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:149,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00146&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-11-18&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0183&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente183@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;24565.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:155,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00152&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-07-29&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0397&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente397@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Montevideo&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Auriculares&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;45000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;202500.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;}]&quot;' data-total-rows='148' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "id": "bkHC",
+      "code_hash": "b6e1d57c051dabaca51cd66a0288c579",
+      "outputs": [],
       "console": []
     },
     {
-      "id": "jRMu",
+      "id": "lEQa",
       "code_hash": "ffd7c8801ec1cbf65887f1ca14604add",
       "outputs": [
         {
@@ -71,20 +43,13 @@
       "console": []
     },
     {
-      "id": "XvFK",
+      "id": "PKri",
       "code_hash": "b812f2374fd66b9e9c3f23e6c0543c67",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='XvFK-0' random-id='2ee0abf0-5b29-d53b-2867-26d1ea9aeb0a'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:&#92;&quot;id_pedido&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;fecha_pedido&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;id_cliente&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;email_cliente&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;pais&#92;&quot;,&#92;&quot;value&#92;&quot;:126},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;ciudad&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;categoria&#92;&quot;,&#92;&quot;value&#92;&quot;:101},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;producto&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;cantidad&#92;&quot;,&#92;&quot;value&#92;&quot;:0},{&#92;&quot;Index0&#92;&quot;:&#92;&quot;precio_unitario&#92;&quot;,&#92;&quot;value&#92;&quot;:0}]&quot;' data-total-rows='14' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;value&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "AdEn",
+      "id": "Xref",
       "code_hash": "53325be12e289d4dc846730a4451afb3",
       "outputs": [
         {
@@ -97,20 +62,13 @@
       "console": []
     },
     {
-      "id": "uEHm",
+      "id": "SFPL",
       "code_hash": "08b861d154ac8c40e2beaada54a85ca4",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='uEHm-0' random-id='3bef5d21-6759-09e2-7f94-b896c88f83c5'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;count&#92;&quot;:1445},{&#92;&quot;estado&#92;&quot;:&#92;&quot;cancelado&#92;&quot;,&#92;&quot;count&#92;&quot;:360},{&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;count&#92;&quot;:348},{&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;count&#92;&quot;:217},{&#92;&quot;estado&#92;&quot;:&#92;&quot;ENTREGADO&#92;&quot;,&#92;&quot;count&#92;&quot;:49},{&#92;&quot;estado&#92;&quot;:&#92;&quot;ENTREGADO &#92;&quot;,&#92;&quot;count&#92;&quot;:38},{&#92;&quot;estado&#92;&quot;:&#92;&quot; ENTREGADO&#92;&quot;,&#92;&quot;count&#92;&quot;:37},{&#92;&quot;estado&#92;&quot;:&#92;&quot;ENVIADO &#92;&quot;,&#92;&quot;count&#92;&quot;:11},{&#92;&quot;estado&#92;&quot;:&#92;&quot;ENVIADO&#92;&quot;,&#92;&quot;count&#92;&quot;:11},{&#92;&quot;estado&#92;&quot;:&#92;&quot;CANCELADO&#92;&quot;,&#92;&quot;count&#92;&quot;:10}]&quot;' data-total-rows='16' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "dFBR",
+      "id": "BYtC",
       "code_hash": "e63e2c0ea08fe78600841bca517324b3",
       "outputs": [
         {
@@ -123,33 +81,19 @@
       "console": []
     },
     {
-      "id": "DNyg",
+      "id": "RGSE",
       "code_hash": "1cecb453009ba6cecfb325f714d3bea0",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='DNyg-0' random-id='7e1d6237-bb94-b5cc-f081-e4127d71fb5b'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;,&#92;&quot;count&#92;&quot;:674},{&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;,&#92;&quot;count&#92;&quot;:666},{&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;,&#92;&quot;count&#92;&quot;:635},{&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;,&#92;&quot;count&#92;&quot;:600}]&quot;' data-total-rows='4' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "gpmb",
+      "id": "Kclp",
       "code_hash": "19a8f4ee936563812c91d3768de7157d",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>np.int64(0)</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "FooN",
+      "id": "emfo",
       "code_hash": "fbade987b06e849e47c7877391cc8dc8",
       "outputs": [
         {
@@ -162,59 +106,31 @@
       "console": []
     },
     {
-      "id": "aHCT",
+      "id": "Hstk",
       "code_hash": "1e1a0b171da93e8e642a3a2035d448d4",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='aHCT-0' random-id='a2df199e-c518-2c09-1b5c-540e9e56916b'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;count&#92;&quot;:923},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;count&#92;&quot;:312},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;count&#92;&quot;:311},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Peru&#92;&quot;,&#92;&quot;count&#92;&quot;:311},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;count&#92;&quot;:301},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;count&#92;&quot;:291}]&quot;' data-total-rows='6' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "HjuT",
+      "id": "nWHF",
       "code_hash": "43c7e5429d537ae8a4a3d98f3343acac",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>np.int64(126)</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "hHaP",
+      "id": "iLit",
       "code_hash": "3236a781648c46805421696038578b3b",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='hHaP-0' random-id='89b4d6b9-4955-7e84-6c1c-1d4ebb2e982e'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;count&#92;&quot;:629},{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;count&#92;&quot;:626},{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;count&#92;&quot;:626},{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;count&#92;&quot;:593}]&quot;' data-total-rows='4' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;count&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "pTPE",
+      "id": "ZHCJ",
       "code_hash": "ae9c13eabc4d7a3fd5220592f4aea9ea",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<pre class='text-xs'>np.int64(101)</pre>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "wFIQ",
+      "id": "ROlb",
       "code_hash": "b531f9680f4e8d250614bcc3b8dfb3a8",
       "outputs": [
         {
@@ -227,20 +143,13 @@
       "console": []
     },
     {
-      "id": "toHO",
+      "id": "qnkX",
       "code_hash": "b53ec6d4c8ab85f92872cc1facf45b02",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='toHO-0' random-id='ee174dc8-1a2e-6c04-6e78-cb66b19ac236'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:0,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00001&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-08-18&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0182&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente182@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Notebook&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;850000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;2040000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:3,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00004&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-10-11&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0234&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente234@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;82365.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:57,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00057&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-05-19&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0523&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente523@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Cafetera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;76000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;243200.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:66,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00064&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-12-30&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0219&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente219@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;420000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:75,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00073&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-05-11&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0257&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente257@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Zapatillas&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:90,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00088&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-06-29&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0341&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente341@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;28000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:131,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00128&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-12-26&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0215&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente215@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Remera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;15000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;42750.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:178,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00173&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-11-16&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0265&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente265@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Zapatillas&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;333200.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:193,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00188&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-08-12&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0186&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente186@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Notebook&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;850000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;4250000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:265,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00257&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-06-27&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0135&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente135@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Notebook&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;850000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;1700000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;cancelado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;}]&quot;' data-total-rows='102' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "bTpw",
+      "id": "TqIu",
       "code_hash": "13df0a7d8c1a484fcea2c4a4bcc5833e",
       "outputs": [
         {
@@ -253,20 +162,13 @@
       "console": []
     },
     {
-      "id": "SBKI",
+      "id": "Vxnm",
       "code_hash": "6f41c117cae4239cdc6a40e54b334619",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='SBKI-0' random-id='7d1893e2-ab9b-421c-5735-4bbed2aacaef'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:8,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-01626&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-12-26&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0078&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente78@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;840000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:17,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00017&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-01-25&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0292&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente292@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Montevideo&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Cafetera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;76.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;342000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:32,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00032&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-10-12&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0437&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente437@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;166250.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:43,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00043&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-03-17&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0597&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente597@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Cafetera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;76.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;136800.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:73,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00071&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-02-20&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0366&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente366@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Campera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;120.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;108000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:85,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00083&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-03-18&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0436&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente436@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Montevideo&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Auriculares&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;45.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;76500.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:132,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00129&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-06-14&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0302&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente302@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Auriculares&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;45.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;38250.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:150,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00147&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-01-01&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0415&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente415@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Peru&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Lima&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Celular&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;620.000,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;2108000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:163,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00160&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-02-13&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0107&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente107@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28.900,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;130050.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:213,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00207&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-12-14&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0416&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente416@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;6&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28.900,00&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;10&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;156060.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;}]&quot;' data-total-rows='130' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "RcrS",
+      "id": "DnEU",
       "code_hash": "f81713527edb3f9aa48aba6f9b239101",
       "outputs": [
         {
@@ -279,20 +181,13 @@
       "console": []
     },
     {
-      "id": "ekuU",
+      "id": "ulZA",
       "code_hash": "cb8613ee1e438ea459d8dd8ec136da1e",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/html": "<marimo-ui-element object-id='ekuU-0' random-id='fd4edd56-41f5-e76e-a7f4-38c6dab1e44b'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:0,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00001&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-08-18&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0182&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente182@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Notebook&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;850000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;2040000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:2,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00003&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-05-03&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0073&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente73@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Notebook&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;850000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:NaN,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:3,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00004&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-10-11&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0234&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente234@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;82365.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:47,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00047&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-04-02&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0405&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente405@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Auriculares&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;45000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:NaN,&#92;&quot;estado&#92;&quot;:&#92;&quot;cancelado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:57,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00057&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-05-19&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0523&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente523@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Cafetera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;76000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;243200.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:66,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00064&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-12-30&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0219&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente219@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;420000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:70,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00068&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-09-25&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0079&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente79@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:NaN,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:75,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00073&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2025-05-11&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0257&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente257@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Zapatillas&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:90,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00088&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-06-29&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0341&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente341@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;-1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;28000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:126,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00123&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;2024-04-30&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0128&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente128@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:NaN,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;}]&quot;' data-total-rows='231' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
-      "id": "WRyC",
+      "id": "ecfG",
       "code_hash": "79c2dc06d322da10b03498e88e6ba2c2",
       "outputs": [
         {
@@ -305,78 +200,83 @@
       "console": []
     },
     {
-      "id": "qRjT",
+      "id": "Pvdt",
       "code_hash": "bc041b00056cf5109851370042a41a87",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "0a66550bc820a4ee0c353ccf32ed233c",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='qRjT-0' random-id='ca2563f6-964d-9fb9-d622-7d498184c312'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Index0&#92;&quot;:7,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00008&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;26/06/2024&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0008&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente8@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Peru&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Lima&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Celular&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;620000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;1767000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;efectivo&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:15,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00015&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;22/05/2024&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0436&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente436@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Bogota&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;504000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:26,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00026&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;14/01/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0210&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente210@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Cordoba&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Campera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;120000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;510000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:33,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00033&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;05/11/2024&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0234&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente234@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Buenos Aires&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Campera&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;120000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;102000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:52,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00052&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;09/12/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0088&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente88@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mouse&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;12500.5&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;10000.4&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;cancelado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:62,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00060&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;16/09/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0496&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente496@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Asuncion&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Mochila&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;4&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;35000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;140000.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:63,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00061&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;20/08/2024&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0003&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente3@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Santiago&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;5&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;54910.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;pendiente&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:65,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00063&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;01/11/2024&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0557&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente557@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Buenos Aires&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Accesorios&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Teclado&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;1&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;0&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;28900.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:67,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00065&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;16/11/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0272&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente272@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Rosario&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Zapatillas&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;2&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;98000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;20&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;156800.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;enviado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;tarjeta&#92;&quot;},{&#92;&quot;Index0&#92;&quot;:68,&#92;&quot;id_pedido&#92;&quot;:&#92;&quot;P-00066&#92;&quot;,&#92;&quot;fecha_pedido&#92;&quot;:&#92;&quot;28/04/2025&#92;&quot;,&#92;&quot;id_cliente&#92;&quot;:&#92;&quot;C0564&#92;&quot;,&#92;&quot;email_cliente&#92;&quot;:&#92;&quot;cliente564@mail.com&#92;&quot;,&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;ciudad&#92;&quot;:&#92;&quot;Montevideo&#92;&quot;,&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;producto&#92;&quot;:&#92;&quot;Silla gamer&#92;&quot;,&#92;&quot;cantidad&#92;&quot;:&#92;&quot;3&#92;&quot;,&#92;&quot;precio_unitario&#92;&quot;:&#92;&quot;210000.0&#92;&quot;,&#92;&quot;descuento_pct&#92;&quot;:&#92;&quot;15&#92;&quot;,&#92;&quot;total&#92;&quot;:&#92;&quot;535500.0&#92;&quot;,&#92;&quot;estado&#92;&quot;:&#92;&quot;entregado&#92;&quot;,&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;billetera_virtual&#92;&quot;}]&quot;' data-total-rows='257' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">El formato de la fecha de la fecha del pedido se detectaron 257 registros con el formato DD/MM/YYYY en lugar del estand\u00e1r el cu\u00e1l es YYYY-MM-DD.</span></span>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "PSnX",
-      "code_hash": "5d8d1785b21801c988a5ebe157173d9a",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">El formato de la fecha de la fecha del pedido se detectaron 257 registros con el formato DD/MM/YYYY en lugar del estand\u00e1r el cu\u00e1l es YYYY-MM-DD. </span></span>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
-      "id": "gNst",
+      "id": "aLJB",
       "code_hash": "069fcd56cfd636478007ee17b2764b0b",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "0972e7306b602fe8a1def78542e6ca60",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='gNst-0' random-id='8e1e5467-2c25-f08d-fe22-a0a39b6a5ea8'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[]&quot;' data-total-rows='0' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">La tabla email_cliente, los emails son v\u00e1lidos, no hay ninguno que est\u00e9 invalido.</span></span>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "ppSn",
-      "code_hash": "1398028bf0cf52de4611e0b3e12d7015",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">La tabla email_cliente, los emails son v\u00e1lidos, no hay ninguno que est\u00e9 invalido. </span></span>"
-          }
-        }
-      ],
-      "console": []
-    },
-    {
-      "id": "aRWu",
+      "id": "xXTn",
       "code_hash": "1127e36b1070bcf24baa0f586cb50aec",
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "a86f0594925144bdd34852541862fb2c",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='aRWu-0' random-id='ec77b89a-ad68-70a0-6211-f5b4e2178a7e'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[]&quot;' data-total-rows='0' data-total-columns='14' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;id_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;fecha_pedido&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;id_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;email_cliente&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ciudad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;producto&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;precio_unitario&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;descuento_pct&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;total&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;estado&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[[&quot;Index0&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">No hay descuentos fuera del rango &lt; 0, &gt; 100 o nulos.</span></span>"
           }
         }
       ],
       "console": []
     },
     {
-      "id": "GoCu",
-      "code_hash": "0a7c28bc7ebcd077585f9ba363620fa0",
+      "id": "wCgH",
+      "code_hash": "13e931b999ee57a547668eda32eb8d2f",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">No hay descuentos fuera del rango &lt; 0, &gt; 100 o nulos. </span></span>"
+            "application/json": "[\"text/html:<marimo-ui-element object-id='wCgH-0' random-id='51e87d0f-3863-155a-7ec1-9100c4fdfdd9'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Electronica&#92;&quot;,&#92;&quot;facturacion_total&#92;&quot;:919826000.0},{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Hogar&#92;&quot;,&#92;&quot;facturacion_total&#92;&quot;:145312967.61},{&#92;&quot;categoria&#92;&quot;:&#92;&quot;Indumentaria&#92;&quot;,&#92;&quot;facturacion_total&#92;&quot;:135919650.0}]&quot;' data-total-rows='3' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;categoria&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;facturacion_total&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>\", \"text/html:<marimo-ui-element object-id='wCgH-1' random-id='083c6b98-8060-ca40-c033-db3677050e05'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-01-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:52261709.37},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-02-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:40357451.47},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-03-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:33256378.52},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-04-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:42682004.12},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-05-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:60272665.86},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-06-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:44887424.33},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-07-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:31756382.1},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-08-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:72756987.94},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-09-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:40940900.28},{&#92;&quot;mes&#92;&quot;:&#92;&quot;2024-10-01 00:00:00&#92;&quot;,&#92;&quot;facturacion_mensual&#92;&quot;:56025336.09}]&quot;' data-total-rows='24' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;mes&quot;,[&quot;datetime&quot;,&quot;datetime64[us]&quot;]],[&quot;facturacion_mensual&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>\", \"text/html:<marimo-ui-element object-id='wCgH-2' random-id='6d7a6ee2-dcba-8815-42a6-e5951f5e1370'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;pais&#92;&quot;:&#92;&quot;Colombia&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:701647.01},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Chile&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:698695.93},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Argentina&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:626939.1},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Uruguay&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:608607.82},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Peru&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:575442.63},{&#92;&quot;pais&#92;&quot;:&#92;&quot;Paraguay&#92;&quot;,&#92;&quot;ticket_promedio&#92;&quot;:482436.19}]&quot;' data-total-rows='6' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;pais&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;ticket_promedio&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>\", \"text/html:<marimo-ui-element object-id='wCgH-3' random-id='33c50879-a31a-ab40-c7ad-e88850c836b8'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;porcentaje_cancelados&#92;&quot;:15.45}]&quot;' data-total-rows='1' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;porcentaje_cancelados&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>\", \"text/html:<marimo-ui-element object-id='wCgH-4' random-id='bd6a7b91-16c8-96da-7c71-89b64477e821'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;medio_pago&#92;&quot;:&#92;&quot;transferencia&#92;&quot;,&#92;&quot;cantidad_pedidos&#92;&quot;:626}]&quot;' data-total-rows='1' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-field-types='[[&quot;medio_pago&quot;,[&quot;string&quot;,&quot;object&quot;]],[&quot;cantidad_pedidos&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>\"]"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "CRHh",
+      "code_hash": "9af89840724ca1f4badee5db2fdefd56",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<pre class='text-xs'>np.float64(51689680.09)</pre>"
           }
         }
       ],
